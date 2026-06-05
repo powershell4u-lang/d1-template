@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "83d925bf-6946-4257-ab2c-40bb70eddf88",
+			"database_name": "lab-access"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
